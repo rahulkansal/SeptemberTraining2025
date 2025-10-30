@@ -1,0 +1,14 @@
+TestNGTests\GroupingExample.class
+TestNGTests\DependencyExample.class
+TestNGTests\ParallelTests.class
+TestNGTests\DisableTC.class
+TestNGTests\RetryTestCaseExample.class
+TestNGTests\AnnotationTransformer.class
+TestNGTests\DataProvidersExample.class
+TestNGTests\InvocationExample.class
+TestNGTests\RetryTest.class
+TestNGTests\AnnotationExample.class
+TestNGTests\PriorityExample.class
+Products\ProductTest.class
+TestNGTests\ParameterExample.class
+TestNGTests\AssertionExample.class
